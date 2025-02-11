@@ -3,6 +3,9 @@ using System;
 
 public partial class Gem : Area2D
 {
+	[Export]
+	private float speed = 100f;
+	
 	// Called when the node enters the scene tree for the first time.
 	public override void _Ready()
 	{
@@ -11,6 +14,12 @@ public partial class Gem : Area2D
 	// Called every frame. 'delta' is the elapsed time since the previous frame.
 	public override void _Process(double delta)
 	{
-		Position += new Vector2(0, 100f * (float)delta);
+		Position += new Vector2(0, speed * (float)delta);
+
+		if (Position.Y > GetViewportRect().Size.Y)
+		{
+			SetProcess(false);
+			QueueFree();
+		}
 	}
 }

@@ -1,5 +1,6 @@
-[gd_scene load_steps=3 format=3 uid="uid://vwlq2awgwjn5"]
+[gd_scene load_steps=4 format=3 uid="uid://vwlq2awgwjn5"]
 
+[ext_resource type="Script" path="res://scenes/Paddle.cs" id="1_30b77"]
 [ext_resource type="Texture2D" uid="uid://t64s0f047ngr" path="res://assets/paddleBlu.png" id="1_gd1ve"]
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_mlwi6"]
@@ -7,6 +8,7 @@ radius = 12.0
 height = 106.0
 
 [node name="Paddle" type="Area2D"]
+script = ExtResource("1_30b77")
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
 texture = ExtResource("1_gd1ve")

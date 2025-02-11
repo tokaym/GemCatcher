@@ -13,6 +13,11 @@ texture = ExtResource("1_si7st")
 
 [node name="Paddle" parent="." instance=ExtResource("2_3mhva")]
 position = Vector2(555, 583)
+speed = 200.0
 
 [node name="Gem" parent="." instance=ExtResource("3_8bbqk")]
 position = Vector2(769, 125)
+
+[node name="Gem2" parent="." instance=ExtResource("3_8bbqk")]
+position = Vector2(295, 55)
+speed = 200.0
