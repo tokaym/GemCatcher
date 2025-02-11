@@ -1,0 +1,18 @@
+/Users/mustafatokay/Documents/GitHub/GemCatcher/.godot/mono/temp/obj/Debug/Gem Catcher.csproj.AssemblyReference.cache
+/Users/mustafatokay/Documents/GitHub/GemCatcher/.godot/mono/temp/obj/Debug/Gem Catcher.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafatokay/Documents/GitHub/GemCatcher/.godot/mono/temp/obj/Debug/Gem Catcher.AssemblyInfoInputs.cache
+/Users/mustafatokay/Documents/GitHub/GemCatcher/.godot/mono/temp/obj/Debug/Gem Catcher.AssemblyInfo.cs
+/Users/mustafatokay/Documents/GitHub/GemCatcher/.godot/mono/temp/obj/Debug/Gem Catcher.csproj.CoreCompileInputs.cache
+/Users/mustafatokay/Documents/GitHub/GemCatcher/.godot/mono/temp/obj/Debug/Gem Catcher.sourcelink.json
+/Users/mustafatokay/Documents/GitHub/GemCatcher/.godot/mono/temp/bin/Debug/Gem Catcher.deps.json
+/Users/mustafatokay/Documents/GitHub/GemCatcher/.godot/mono/temp/bin/Debug/Gem Catcher.runtimeconfig.json
+/Users/mustafatokay/Documents/GitHub/GemCatcher/.godot/mono/temp/bin/Debug/Gem Catcher.dll
+/Users/mustafatokay/Documents/GitHub/GemCatcher/.godot/mono/temp/bin/Debug/Gem Catcher.pdb
+/Users/mustafatokay/Documents/GitHub/GemCatcher/.godot/mono/temp/bin/Debug/GodotSharp.dll
+/Users/mustafatokay/Documents/GitHub/GemCatcher/.godot/mono/temp/bin/Debug/GodotSharpEditor.dll
+/Users/mustafatokay/Documents/GitHub/GemCatcher/.godot/mono/temp/obj/Debug/Gem Catc.E05302C1.Up2Date
+/Users/mustafatokay/Documents/GitHub/GemCatcher/.godot/mono/temp/obj/Debug/Gem Catcher.dll
+/Users/mustafatokay/Documents/GitHub/GemCatcher/.godot/mono/temp/obj/Debug/refint/Gem Catcher.dll
+/Users/mustafatokay/Documents/GitHub/GemCatcher/.godot/mono/temp/obj/Debug/Gem Catcher.pdb
+/Users/mustafatokay/Documents/GitHub/GemCatcher/.godot/mono/temp/obj/Debug/Gem Catcher.genruntimeconfig.cache
+/Users/mustafatokay/Documents/GitHub/GemCatcher/.godot/mono/temp/obj/Debug/ref/Gem Catcher.dll
