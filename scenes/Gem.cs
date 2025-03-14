@@ -3,6 +3,9 @@ using System;
 
 public partial class Gem : Area2D
 {
+	[Signal]
+	public delegate void OnGemOffScreenEventHandler();
+	
 	[Export]
 	private float speed = 100f;
 	
@@ -15,9 +18,10 @@ public partial class Gem : Area2D
 	public override void _Process(double delta)
 	{
 		Position += new Vector2(0, speed * (float)delta);
-
+		
 		if (Position.Y > GetViewportRect().Size.Y)
 		{
+			EmitSignal(SignalName.OnGemOffScreen);
 			SetProcess(false);
 			QueueFree();
 		}

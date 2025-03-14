@@ -16,3 +16,5 @@ texture = ExtResource("1_gd1ve")
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 rotation = 1.5708
 shape = SubResource("CapsuleShape2D_mlwi6")
+
+[connection signal="area_entered" from="." to="." method="OnGemAreaEntered"]

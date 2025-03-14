@@ -12,6 +12,11 @@ public partial class Paddle : Area2D
 
 	public override void _Process(double delta)
 	{
-		Position += new Vector2(speed * Input.GetAxis("left", "right"); * (float)delta, 0);
+		Position += new Vector2(speed * Input.GetAxis("left", "right") * (float)delta, 0);
+	}
+	
+	private void OnGemAreaEntered(Area2D area)
+	{
+		GD.Print("Area Entered:", area);
 	}
 }

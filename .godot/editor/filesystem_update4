@@ -3,3 +3,4 @@ res://scenes/gem.tscn
 res://scenes/Gem.cs
 res://scenes/paddle.tscn
 res://scenes/Paddle.cs
+res://scenes/Game.cs
